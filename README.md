@@ -16,3 +16,4 @@ GitHub Actions is a continuous integration and continuous delivery (CI/CD) platf
 1. Why is your CI CD pipeline setup on GitHub Actions?
 2. How do you setup GitHub Actions?
 3. Explain the files (eg. yaml files) created while setting up GitHub Actions.
+4. Explain pros and cons of using Jenkins and GitHub Actions.
