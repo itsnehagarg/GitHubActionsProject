@@ -1,5 +1,5 @@
 FROM amazonlinux:2
-LABEL maintainer="er.utsavgarg@gmail.com"
+LABEL maintainer="nehapegs@gmail.com"
 ARG VERSION_READABLE
 ENV VERSION_READABLE=$VERSION_READABLE
 RUN yum update -y && \
