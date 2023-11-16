@@ -9,7 +9,20 @@ GitHub Actions is a continuous integration and continuous delivery (CI/CD) platf
 
 
 ## Self-hosted runners
+For Self-hosted Runners,
 
+EC2
+1. Create an EC2 instance.
+2. Enable port 80 & 443 in SG Inbound rules.
+3. Enable port 80 & 443 in SG Outbound rules.
+
+For Self-hosted Runners, on GitHub
+
+1. Settings-> Actions-> Runners-> Click on Add New Self-hosted Runner
+2. Select the OS. 
+3. Select the Architecture.
+4. Token will be there. keep it secure
+5. Run all the commands.
 
 ## Interview questions
 
