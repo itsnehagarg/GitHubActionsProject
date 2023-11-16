@@ -23,6 +23,9 @@ For Self-hosted Runners, on GitHub
 3. Select the Architecture.
 4. Token will be there. keep it secure
 5. Run all the commands.
+6. Go to your github actions file: .github/workflows/githubactions.yaml
+7. Change the runs-on: self-hosted
+8. 
 
 ## Interview questions
 
